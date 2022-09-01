@@ -1,0 +1,2 @@
+#!/bin/bash
+tmp_my_first_directory=$( mktemp -d -t my-script )
