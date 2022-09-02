@@ -1,1 +1,1 @@
-Write a command that lists all the files and directories of the current directory, separated by commas (,).
+Create a script that creates a directory named my_first_directory in the /tmp/ directory.
